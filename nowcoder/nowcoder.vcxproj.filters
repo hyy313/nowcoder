@@ -17,4 +17,9 @@
       <UniqueIdentifier>{b8d374d1-55b5-4b81-bbcf-9bc7bc547577}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3.cpp">
+      <Filter>源文件\剑指offer</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
