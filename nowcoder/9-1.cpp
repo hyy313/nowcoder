@@ -1,30 +1,31 @@
 //#include<iostream>
 //#include<vector>
-//
 //using namespace std;
 //
 //class Solution {
 //public:
-//	int Fibonacci(int n) {
+//	int jumpFloor(int number) {
 //
-//		int a = 0;
-//		int b = 1;
+//		int a = 1;
+//		int b = 2;
 //
-//		if (n <= 0) {
+//		if (number < 1)
+//			return 0;
+//
+//		if (number == 1)
 //			return a;
-//		}
 //
-//		if (n == 1) {
+//		if (number == 2)
 //			return b;
-//		}
 //
-//		for (int i = 2; i <= n; i++) {
+//		for (int i = 3; i <= number; i++) {
 //			int temp = b;
 //			b += a;
 //			a = temp;
 //		}
 //
 //		return b;
+//
 //	}
 //};
 //
@@ -37,7 +38,7 @@
 //	cin >> n;
 //
 //	while (n != -1) {
-//		cout << "Fibonacci(n):" << s.Fibonacci(n) << endl;
+//		cout << "Fibonacci(n):" << s.jumpFloor(n) << endl;
 //
 //		cout << "ÊäÈën:";
 //		cin >> n;
