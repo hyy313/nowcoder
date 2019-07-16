@@ -1,5 +1,4 @@
 //#include<iostream>
-//#include<vector>
 //using namespace std;
 //
 //class Solution {
@@ -38,7 +37,7 @@
 //	cin >> n;
 //
 //	while (n != -1) {
-//		cout << "Fibonacci(n):" << s.jumpFloor(n) << endl;
+//		cout << "jumpFloor(n):" << s.jumpFloor(n) << endl;
 //
 //		cout << "ÊäÈën:";
 //		cin >> n;
