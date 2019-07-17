@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="10v1.cpp" />
     <ClCompile Include="10v2.cpp" />
+    <ClCompile Include="10v3.cpp" />
     <ClCompile Include="9-1.cpp" />
     <ClCompile Include="3.cpp" />
     <ClCompile Include="4.cpp" />
