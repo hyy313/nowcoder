@@ -51,5 +51,8 @@
     <ClCompile Include="10v1.cpp">
       <Filter>源文件\剑指offer</Filter>
     </ClCompile>
+    <ClCompile Include="10v2.cpp">
+      <Filter>源文件\剑指offer</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
