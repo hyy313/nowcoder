@@ -144,6 +144,7 @@
     <ClCompile Include="26.cpp" />
     <ClCompile Include="27.cpp" />
     <ClCompile Include="28.cpp" />
+    <ClCompile Include="29.cpp" />
     <ClCompile Include="9-1.cpp" />
     <ClCompile Include="3.cpp" />
     <ClCompile Include="4.cpp" />
@@ -154,6 +155,7 @@
     <ClCompile Include="9-2.cpp" />
     <ClCompile Include="9-3.cpp" />
     <ClCompile Include="9.cpp" />
+    <ClCompile Include="partition.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
