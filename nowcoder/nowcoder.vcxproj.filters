@@ -120,5 +120,8 @@
     <ClCompile Include="partition.cpp">
       <Filter>源文件\code</Filter>
     </ClCompile>
+    <ClCompile Include="30.cpp">
+      <Filter>源文件\剑指offer</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
